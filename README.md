@@ -1,3 +1,8 @@
+=(Microtan65_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 <a href="https://en.wikipedia.org/wiki/Tangerine_Microtan_65#/media/File:Tangerine_Microtan_65_In_System_Rack_(white_bg).jpg">
   <img align="right" width="320" src="https://upload.wikimedia.org/wikipedia/commons/5/54/Tangerine_Microtan_65_In_System_Rack_%28white_bg%29.jpg" alt="Tangerine Microtan 65 in its System Rack">
 </a>
